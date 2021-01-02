@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Latefa Al-Naimi is a PhD student at the University of Colorado Boulder's {{< ref "https://www.colorado.edu/atlas/living-matter-lab" "newtab" >}}Living Matter Lab{{< /ref >}}. Her research interests include human-computer interaction, virtual reality, bioinformatics, and user experience design. Currently, her research is centered on the analysis of the metagenomic data of bacteriophages.
+Latefa Al-Naimi is a PhD student at the University of Colorado Boulder's [Living Matter Lab]({{< ref "https://www.colorado.edu/atlas/living-matter-lab" "newtab" >}} "Living Matter Lab"). Her research interests include human-computer interaction, virtual reality, bioinformatics, and user experience design. Currently, her research is centered on the analysis of the metagenomic data of bacteriophages.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
