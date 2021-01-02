@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Latifa Al-Naimi
+title: Latefa Al-Naimi
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Latifa Al-Naimi is a PhD student at the University of Colorado Boulder's Living Matter Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Latefa Al-Naimi is a PhD student at the University of Colorado Boulder's Living Matter Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
