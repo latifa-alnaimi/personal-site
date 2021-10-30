@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Latefa Al-Naimi
+title: Lateefah Al-Naimi
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,13 +14,13 @@ organizations:
   url: https://www.colorado.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
 - Human-Computer Interaction
-- Virtual Reality
 - Bioinformatics
+- Social Computing
 
 # Education to show in About widget
 education:
@@ -43,18 +43,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  icon_pack: fab 
+  link: https://github.com/latifa-alnaimi
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/lalnaimi 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Latefa Al-Naimi is a PhD student at the University of Colorado Boulder's Living Matter Lab. Her research interests include human-computer interaction, virtual reality, bioinformatics, and user experience design. Currently, her research is centered on the analysis of the metagenomic data of bacteriophages.
+Welcome to the homepage of Lateefah Al-Naimi. I'm a Computer Science PhD Student at the University of Colorado Boulder. I am currently working on the analysis of the metagenomic data of bacteriophages at CU Boulder's Living Matter Lab. My research interests include human-computer interaction, bioinformatics, and social computing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Lateefah.pdf" "newtab" >}}CV{{< /staticref >}}.
