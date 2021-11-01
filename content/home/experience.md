@@ -57,7 +57,7 @@ experience:
         Taught weekly practical sessions, held multiple weekly office hours, and guided students in Human-Computer Interaction principles for the Fundamentals of Human Computer Interaction course (CSCI 3002).
 
   - title: Systems Engineer
-    company: Qatar Energy (previously Qatar Petroleum)
+    company: Qatar Energy (formerly Qatar Petroleum)
     company_url: 'https://en.droobihealth.com'
     location: Doha, Qatar
     date_start: '2021-06-01'
@@ -75,7 +75,7 @@ experience:
         Taught weekly practical sessions, held multiple weekly office hours, and guided students in Human-Computer Interaction principles for the Fundamentals of Human Computer Interaction course (CSCI 3002).   
         
   - title: Intern
-    company: Qatar Petroleum
+    company: Qatar Energy (formerly Qatar Petroleum)
     company_url: 'https://en.droobihealth.com'
     location: Doha, Qatar
     date_start: '2021-06-01'
