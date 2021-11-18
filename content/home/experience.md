@@ -51,35 +51,39 @@ experience:
     company: Droobi Health
     company_url: 'https://en.droobihealth.com'
     location: Doha, Qatar
-    date_start: '2021-06-01'
-    date_end: '2021-07-25'
+    date_start: '2018-10-14'
+    date_end: '2019-01-17'
     description: |2-
-        Taught weekly practical sessions, held multiple weekly office hours, and guided students in Human-Computer Interaction principles for the Fundamentals of Human Computer Interaction course (CSCI 3002).
+        * Designed and conducted usability studies for a diabetes management mobile application.
+        * Proposed a variety of enhancements to the developing iOS app through sketches and wireframes.
+
 
   - title: Systems Engineer
     company: Qatar Energy (formerly Qatar Petroleum)
-    company_url: 'https://en.droobihealth.com'
+    company_url: 'https://qp.com.qa/en/Pages/Home.aspx'
     location: Doha, Qatar
-    date_start: '2021-06-01'
-    date_end: '2021-07-25'
+    date_start: '2014-12-21'
+    date_end: '2016-08-31'
     description: |2-
-        Taught weekly practical sessions, held multiple weekly office hours, and guided students in Human-Computer Interaction principles for the Fundamentals of Human Computer Interaction course (CSCI 3002).
+        * Led the setup of IBM landscape in a backup disaster-recovery data center.
+        * Maintained over 150 IBM AIX servers hosting ERP (Enterprise Running Planning) software.
+        * Coordinated with network, storage, and software development teams.
 
   - title: Research Intern
     company: Bell Labs
     company_url: 'https://en.droobihealth.com'
-    location: Doha, Qatar
-    date_start: '2021-06-01'
-    date_end: '2021-07-25'
+    location: Dublin, Ireland
+    date_start: '2014-10-06'
+    date_end: '2014-12-12'
     description: |2-
         Taught weekly practical sessions, held multiple weekly office hours, and guided students in Human-Computer Interaction principles for the Fundamentals of Human Computer Interaction course (CSCI 3002).   
         
   - title: Intern
     company: Qatar Energy (formerly Qatar Petroleum)
-    company_url: 'https://en.droobihealth.com'
+    company_url: 'https://qp.com.qa/en/Pages/Home.aspx'
     location: Doha, Qatar
-    date_start: '2021-06-01'
-    date_end: '2021-07-25'
+    date_start: '2013-06-15'
+    date_end: '2013-08-15'
     description: |2-
         Taught weekly practical sessions, held multiple weekly office hours, and guided students in Human-Computer Interaction principles for the Fundamentals of Human Computer Interaction course (CSCI 3002). 
 
