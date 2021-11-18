@@ -16,7 +16,7 @@ tags:
 - '"sustainability"'
 - '"user study"'
 categories: []
-date: '2022-01-01'
+date: '2022'
 lastmod: 2021-11-17T21:21:34-07:00
 featured: false
 draft: false
