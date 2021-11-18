@@ -10,24 +10,13 @@ authors:
 - Latefa Al-Naimi
 - Amna Al-Kaabi
 tags:
-- '"1"'
-- '"2"'
-- '"5"'
-- '"evaluation"'
-- '"h"'
-- '"haptic i"'
-- '"information interfaces and presentation"'
-- '"intensity of vibration"'
-- '"methodology"'
-- '"minimum"'
-- '"o"'
-- '"parameters were considered"'
-- '"position of vibrators and"'
-- '"proper"'
-- '"three main critical design"'
-- '"user interfaces"'
+- 'driving simulation'
+- 'tactile seat'
+- 'human perception'
+- 'vibrotactile feedback'
+- 'user interfaces'
 categories: []
-date: '2014-01-01'
+date: '2014-11-01'
 lastmod: 2021-11-17T21:21:33-07:00
 featured: false
 draft: false

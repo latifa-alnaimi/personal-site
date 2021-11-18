@@ -10,9 +10,9 @@ authors:
 - Latefa Al-Naimi
 - Amna Al-Kaabi
 tags:
-- '"driving simulation"'
-- '"haptic"'
-- '"vibrotactile stimuli"'
+- 'driving simulation'
+- 'haptic'
+- 'vibrotactile stimuli'
 categories: []
 date: '2014-11-01'
 lastmod: 2021-11-17T21:21:34-07:00
