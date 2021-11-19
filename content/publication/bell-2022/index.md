@@ -40,5 +40,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Sixteenth International Conference on Tangible,
-  Embedded, and Embodied Interaction*'
+  Embedded, and Embodied Interaction* (Accepted)'
 ---
