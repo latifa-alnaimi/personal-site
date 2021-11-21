@@ -69,5 +69,4 @@ highlight_name: false
 
 Welcome to the homepage of Lateefah Al-Naimi. I'm a Computer Science PhD Student at the [University of Colorado Boulder](https://www.colorado.edu/cs/). I am currently working on the analysis of the metagenomic data of bacteriophages at CU Boulder's [Living Matter Lab](https://www.colorado.edu/atlas/living-matter-lab). My research interests include human-computer interaction, bioinformatics, and social computing.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Lateefah.pdf" "newtab" >}}CV{{< /staticref >}}. -->
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/cv.pdf" "newtab" %}}CV{{% /staticref %}}
