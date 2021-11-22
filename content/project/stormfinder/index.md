@@ -42,7 +42,9 @@ StormFinder informs users of whether a data center is in danger of being hit by 
 StormFinder provides both a text-based output for the status of the data center as well as a more user-friendly display in the form of a Google Maps embedded HTML page with color-coding.
 
 **Sample Output**
-![](txt_out.png)  |  ![](map_out.png)
+Text             |  Map
+:---------------:|:-----------------:
+![](txt_out.png) |  ![](map_out.png)
 <!-- <div class="output_images">
     <div class="column">
         <img src="txt_out.png" alt="text" style="width:50%"/>
