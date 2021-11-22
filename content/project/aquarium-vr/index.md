@@ -5,7 +5,7 @@ tags:
 - Virtual reality
 - Unity3d
 - Oculus quest
-date: "December 2020"
+date: "2020-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

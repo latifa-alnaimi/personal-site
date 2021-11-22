@@ -5,7 +5,7 @@ tags:
 - Google maps
 - Javascript
 - Python
-date: "December 2014"
+date: "2014-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
