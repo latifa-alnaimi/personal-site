@@ -44,10 +44,10 @@ StormFinder provides both a text-based output for the status of the data center 
 **Sample Output**
 <div class="output_images">
     <div class="column">
-        <img src="figures/stormfinder/txt_out.png" alt="text" style="width:100%"/>
+        <img src="txt_out.png" alt="text" style="width:50%"/>
     </div>
     <div class="column">
-        <img src="figures/stormfinder/map_out.png" alt="map" style="width:100%" />
+        <img src="map_out.png" alt="map" style="width:50%" />
     </div>
 </div>
 
