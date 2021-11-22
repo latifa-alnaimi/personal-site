@@ -4,7 +4,7 @@ summary: Virtual reality game with choices and effects
 tags:
 - Virtual reality
 - Unity3d
-- Oculus quest
+- Oculus Quest
 date: "2020-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
