@@ -2,7 +2,7 @@
 title: Storm Finder
 summary: Tool for detection of unfavorable weather near telecom data centers
 tags:
-- Google API
+- Google maps
 - Javascript
 - Python
 date: "December 2014"
