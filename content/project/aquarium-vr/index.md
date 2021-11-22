@@ -1,10 +1,10 @@
 ---
-title: Storm Finder
-summary: Tool for detection of unfavorable weather near telecom data centers
+title: Aquarium VR
+summary: Virtual reality game with choices
 tags:
-- Google API
-- Javascript
-- Python
+- Virtual reality
+- Unity3d
+- Oculus quest
 date: "December 2020"
 
 # Optional external URL for project (replaces project detail page).
@@ -38,7 +38,7 @@ I developed the Aquarium of Morality for a Virtual Reality class. Watch as your 
 ## Description
 Users are placed in a setting they can explore and interact with. Actions they perform are evaluated as good or bad and kept track of with a point system. The manifestation of these actions take effect on an aquarium. To keep it alive and grow it further, users must perform typically constructive actions. The more positive actions, the more the aquarium will develop –and vice versa for destructive actions.
 
-#### Aquarium
+### Aquarium
 Neutral             |  Good         |  Bad  
 :---------------:|:-----------------:|:-----------:
 ![](images/neutral.png) |  ![](images/good.png) | ![](images/bad.png)
