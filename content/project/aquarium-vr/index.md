@@ -1,6 +1,6 @@
 ---
 title: Aquarium VR
-summary: Virtual reality game with choices
+summary: Virtual reality game with choices and effects
 tags:
 - Virtual reality
 - Unity3d
